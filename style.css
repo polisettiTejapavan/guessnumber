@@ -1,0 +1,18 @@
+body{
+    background-image: url(t1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 250px;
+}
+.container h2{
+    color:darkmagenta;
+
+}
+.container h3{
+    color:darkorange;
+}
